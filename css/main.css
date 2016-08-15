@@ -1,0 +1,174 @@
+body {
+	box-sizing: border-box;
+	text-align: center;
+	color: #FFF;
+}
+
+
+nav h4 {
+	color: #F05F40;
+	font-weight: bold;
+}
+
+ul li a {
+	color: #000;
+	font-weight: bolder;
+}
+
+.intro {
+	background-image: url("../img/header.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 700px;
+}
+
+.pad {
+	padding: 12%;
+}
+
+.line-o {
+	margin: auto;
+	border-bottom: 3px solid #F05F40;
+	width: 70px;
+}
+
+section h1 {
+	font-weight: bold;
+	margin-top: 20%;
+	margin-bottom: 2.5%;
+}
+
+p {
+	margin-top: 2%;
+}
+
+.p-intro {
+	font-size: 1.5em;
+	font-family: serif;
+	color: #CEC5BD;
+}
+
+.button {
+	background-color: #F05F40;
+	border: none;
+	border-radius: 25%;
+	width: 125px;
+	height: 50px;
+}
+
+.about {
+	background-color: #F05F40;
+	height: 400px;
+	margin-top: -2%;
+}
+
+.about h2 {
+	padding-top: 7%;
+}
+
+.p-about {
+	font-size: 1.3em;
+}
+
+.services {
+	height: 400px;
+	padding: 4%;
+}
+
+.line-w {
+	margin: auto;
+	border-bottom: 3px solid #FFF;
+	width: 70px;
+}
+
+.enunciado {
+	color: #000;
+	font-size: 2em;
+	margin-bottom: 2%;
+}
+
+.margin {
+	margin-top: 8%;
+}
+
+.e-icon {
+	font-size: 1.7em;
+	color: #222222;
+}
+
+.icon-heart, .icon-diamond, .icon-news, .icon-paperplane {
+	font-size: 10em;
+	color: #F05F40;
+}	
+
+.samples {
+	height: 600px;
+}
+
+.img-1 {
+	background-image: url(../img/1.jpg);
+}
+
+.img-2 {
+	background-image: url(../img/2.jpg);
+}
+
+.img-3 {
+	background-image: url(../img/3.jpg);
+}
+
+.img-4 {
+	background-image: url(../img/4.jpg);
+}
+
+.img-5 {
+	background-image: url(../img/5.jpg);
+}
+
+.img-6 {
+	background-image: url(../img/6.jpg);
+}
+
+.alt {
+	height: 300px;
+}
+
+.more {
+	height: 200px;
+	background-color: #222222;
+}
+
+.p-m {
+	font-size: 2em;
+	margin-bottom: 3%;
+}
+
+.more a {
+	background-color: white;
+	padding: 14px 15px;
+	border-radius: 25px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #222222;
+}
+
+.contact-me {
+	height: 400px;
+	color: #222222;
+	padding: 3%;
+}
+
+.p-f {
+	font-size: 1.3em;
+}
+
+i {
+	font-size: 4em;
+	margin-top: 3%;
+}
+
+.color {
+	color: #F05F40;
+	font-size: 1.3em;
+}
+
