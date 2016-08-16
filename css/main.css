@@ -97,13 +97,9 @@ p {
 }
 
 .icon-heart, .icon-diamond, .icon-news, .icon-paperplane {
-	font-size: 10em;
+	font-size: 4em;
 	color: #F05F40;
 }	
-
-.samples {
-	height: 600px;
-}
 
 .img-1 {
 	background-image: url(../img/1.jpg);
